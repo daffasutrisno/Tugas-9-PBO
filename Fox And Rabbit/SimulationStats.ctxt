@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SimulationStats
+comment1.params=
+comment1.target=void\ resetCounts()
+comment2.params=animalClass
+comment2.target=void\ incrementCount(java.lang.Class)
+comment3.params=field
+comment3.target=void\ printStatistics(Field)
+numComments=4

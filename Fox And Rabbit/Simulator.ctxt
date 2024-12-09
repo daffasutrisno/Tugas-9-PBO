@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Simulator
+comment1.params=
+comment1.target=Simulator()
+comment2.params=depth\ width
+comment2.target=Simulator(int,\ int)
+comment3.params=steps
+comment3.target=void\ simulate(int)
+comment4.params=
+comment4.target=void\ simulateOneStep()
+comment5.params=
+comment5.target=void\ printField()
+comment6.params=
+comment6.target=void\ populate()
+numComments=7
